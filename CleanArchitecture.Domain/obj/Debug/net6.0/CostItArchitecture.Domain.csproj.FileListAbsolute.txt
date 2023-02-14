@@ -1,0 +1,12 @@
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\bin\Debug\net6.0\CostItArchitecture.Domain.deps.json
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\bin\Debug\net6.0\CostItArchitecture.Domain.dll
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\bin\Debug\net6.0\CostItArchitecture.Domain.pdb
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\CostItArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\CostItArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\CostItArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\CostItArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\CostItArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\CostItArchitecture.Domain.dll
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CostItArchitecture.Domain.dll
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\CostItArchitecture.Domain.pdb
+C:\Users\Decagon\source\repos\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CostItArchitecture.Domain.dll

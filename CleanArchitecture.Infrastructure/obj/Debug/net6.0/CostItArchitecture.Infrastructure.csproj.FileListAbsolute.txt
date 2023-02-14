@@ -1,0 +1,17 @@
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CostItArchitecture.Infrastructure.deps.json
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CostItArchitecture.Infrastructure.runtimeconfig.json
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CostItArchitecture.Infrastructure.dll
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CostItArchitecture.Infrastructure.pdb
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CostItArchitecture.Domain.dll
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CostItArchitecture.Domain.pdb
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.csproj.CopyComplete
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.dll
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\refint\CostItArchitecture.Infrastructure.dll
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.pdb
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CostItArchitecture.Infrastructure.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\CleanArchitecture.Infrastructure\obj\Debug\net6.0\ref\CostItArchitecture.Infrastructure.dll
