@@ -1,4 +1,6 @@
-﻿using CostItArchitecture.Infrastructure.Context;
+﻿using CleanArchitecture.Domain.IRepositories;
+using CostItArchitecture.Infrastructure.Context;
+using CostItArchitecture.Infrastructure.unitOfWork;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -23,6 +25,7 @@ namespace CostItArchitecture.Infrastructure.Extensions
 
 
             //Add Repository Injections Here
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             return services;
         }
